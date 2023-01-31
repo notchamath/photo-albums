@@ -1,5 +1,78 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Laverne Ferry",
+      "id": 2
+    },
+    {
+      "name": "Jimmy Ortiz",
+      "id": 3
+    },
+    {
+      "name": "Eva Parisian",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Cotton Chicken",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Shirt",
+      "id": 25
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Cotton Car",
+      "id": 26
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Metal Keyboard",
+      "id": 28
+    },
+    {
+      "userId": 4,
+      "title": "Bespoke Steel Car",
+      "id": 29
+    },
+    {
+      "userId": 4,
+      "title": "Practical Cotton Chair",
+      "id": 30
+    },
+    {
+      "userId": 4,
+      "title": "Refined Wooden Chips",
+      "id": 31
+    },
+    {
+      "userId": 3,
+      "title": "Modern Fresh Gloves",
+      "id": 32
+    },
+    {
+      "userId": 3,
+      "title": "Handcrafted Metal Sausages",
+      "id": 33
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Cotton Hat",
+      "id": 35
+    }
+  ],
+  "photos": []
 }
