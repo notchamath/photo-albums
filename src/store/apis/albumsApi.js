@@ -71,5 +71,9 @@ const albumsApi = createApi({
     }
 });
 
-export const {useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation} = albumsApi;
+export const {
+    useFetchAlbumsQuery, 
+    useAddAlbumMutation, 
+    useRemoveAlbumMutation
+} = albumsApi;
 export {albumsApi};

@@ -5,74 +5,81 @@
       "name": "Myra"
     },
     {
-      "name": "Laverne Ferry",
+      "name": "Dewey Ritchie",
       "id": 2
     },
     {
-      "name": "Jimmy Ortiz",
+      "name": "Clyde Ankunding",
       "id": 3
-    },
-    {
-      "name": "Eva Parisian",
-      "id": 4
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "userId": 1,
+      "title": "Fantastic Wooden Bike",
+      "id": 1
     },
     {
       "userId": 1,
-      "title": "Electronic Cotton Chicken",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Elegant Plastic Shirt",
-      "id": 25
+      "title": "Recycled Plastic Table",
+      "id": 2
     },
     {
       "userId": 2,
-      "title": "Unbranded Cotton Car",
-      "id": 26
-    },
-    {
-      "userId": 2,
-      "title": "Intelligent Metal Keyboard",
-      "id": 28
-    },
-    {
-      "userId": 4,
-      "title": "Bespoke Steel Car",
-      "id": 29
-    },
-    {
-      "userId": 4,
-      "title": "Practical Cotton Chair",
-      "id": 30
-    },
-    {
-      "userId": 4,
-      "title": "Refined Wooden Chips",
-      "id": 31
+      "title": "Fantastic Plastic Computer",
+      "id": 3
     },
     {
       "userId": 3,
-      "title": "Modern Fresh Gloves",
-      "id": 32
+      "title": "Ergonomic Granite Chips",
+      "id": 4
     },
     {
       "userId": 3,
-      "title": "Handcrafted Metal Sausages",
-      "id": 33
-    },
-    {
-      "userId": 2,
-      "title": "Luxurious Cotton Hat",
-      "id": 35
+      "title": "Ergonomic Bronze Table",
+      "id": 5
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54479",
+      "id": 1
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61813",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=284",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79161",
+      "id": 6
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33611",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39473",
+      "id": 9
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87668",
+      "id": 11
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=17415",
+      "id": 12
+    }
+  ]
 }
